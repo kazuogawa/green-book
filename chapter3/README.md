@@ -6,3 +6,7 @@
 
 公式のリンクが切れちゃっているのでここを参照
 https://github.com/aviatesk/intro-statistical-modeling/blob/master/data/data3.csv
+
+散布図と箱髭図で見てみた。わからん。
+
+latex使えないので、paperにまとめる
